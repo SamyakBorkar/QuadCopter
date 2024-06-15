@@ -75,5 +75,5 @@ This project is under the [MIT License](./LICENSE). Feel free to use and modify 
 
 ## Contact Information 📧
 
-If you have any questions or need further assistance, please contact the project maintainer at [2022bit037@sggs.ac.in].
+If you have any questions or need further assistance, please contact the project maintainer at [2022bit037@sggs.ac.in] or [2022bcs020@sggs.ac.in].
 
