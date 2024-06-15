@@ -65,7 +65,7 @@ Here are some common issues and their potential solutions:
 
 - **Quadcopter is Unstable**: Check MPU-6050 calibration and ensure motor/ESC connections are correct.
 - **No Signal from Transmitter**: Verify RF receiver connections and ensure the transmitter is correctly paired.
-- **ESP Not Responding**: Re-flash the code and check for wiring issues.
+- **ESP Not Responding**: Re-flash/Re-upload the code and check for wiring issues.
 
 ## Contributions and License 🌎
 
