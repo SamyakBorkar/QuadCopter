@@ -2,7 +2,6 @@
 
 Welcome to the Quadcopter Project! This project involves building a custom quadcopter without a traditional flight controller. Instead, we use an ESP microcontroller with an MPU-6050 sensor for flight stabilization, along with ESCs (Electronic Speed Controllers), BLDC (Brushless DC) motors, an RF receiver, and a FlySky transmitter for control. Let's dive into the details!
 
-/home/samyak/Downloads/dronepic.jpg
 ## Project Components 🔧
 
 Here is a breakdown of the components used in this project:
