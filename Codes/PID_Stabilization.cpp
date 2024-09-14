@@ -3,7 +3,6 @@
 #include <MPU6050.h>
 #include <PID_v1.h>
 
-
 // Servo objects for each ESC
 Servo esc1, esc2, esc3, esc4;
 
